@@ -1,4 +1,3 @@
-import Link from 'next/link'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -30,12 +29,7 @@ export default function Home() {
         </a>
       </div>
 
-      {/* Subtle footer link */}
-      <div className="absolute bottom-8 text-zinc-600 text-sm">
-        <Link href="/floridatrip2026" className="hover:text-zinc-400 transition-colors">
-          Florida Trip 2026 →
-        </Link>
-      </div>
+
     </main>
   )
 }
