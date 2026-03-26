@@ -115,3 +115,4 @@ create table trip_events (
 ## License
 
 MIT — use it, fork it, share the beach vibes. 🏖️
+# Grupe Trip Planner
